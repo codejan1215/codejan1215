@@ -17,6 +17,8 @@ A Java-based simulation of how a bank works — covering core banking operations
 ### 🏫 [Organization Hub System](https://github.com/codejan1215/Java-Organization-Hub-System)
 A Java system built for school organizations to manage events, news, and more — all in one place.
 
+## 🚪 [Secret Door Passage] (https://github.com/codejan1215/To-Secret-Door-Passage)
+Its a very simple Python game that let user to find key and code to enter to secret door.
 ---
 
 ## 📚 Currently Learning
